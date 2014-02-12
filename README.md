@@ -64,3 +64,18 @@ Todo
 Find a way to make scripts usable to win32 people. They are people too ;)
 
 
+Links
+-----
+
+A language script by Baron Schwartz 
+https://gist.github.com/xaprb/8492226
+
+http://www.hemingwayapp.com/
+via https://news.ycombinator.com/item?id=7223969
+
+https://www.languagetool.org/
+https://github.com/languagetool-org/languagetool/tree/master/languagetool-core/src/main/java/org/languagetool/rules
+
+
+
+
