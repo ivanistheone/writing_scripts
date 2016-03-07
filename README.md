@@ -5,6 +5,11 @@ Writing scripts
 A collection of scripts (simple programs you run from a command prompt)
 that will help you find weak spots in in your scientific writing.
 
+Other (better) scripts
+----------------------
+  - https://github.com/amperser/proselint
+
+
 Individual usage
 ----------------
 
