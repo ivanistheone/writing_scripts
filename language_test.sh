@@ -11,7 +11,7 @@ echo "Checking for usage of weasel words in "$@
 ./weaselwords.sh $@
 echo " "
 
-echo "Checking for for duplicate words in "$@
+echo "Checking for duplicate words in "$@
 ./duplicatewords.sh $1
 echo " "
 

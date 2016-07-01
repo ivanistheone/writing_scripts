@@ -3,7 +3,7 @@ Writing scripts
 ===============
 
 A collection of scripts (simple programs you run from a command prompt)
-that will help you find weak spots in in your scientific writing.
+that will help you find weak spots in your scientific writing.
 
 Other (better) scripts
 ----------------------
@@ -17,7 +17,7 @@ If the script (.sh extension) is in the same folder as your text file run:
 
     ./weaselwords.sh  yourpaper.txt
 
-You may have to type in `chmod +x weaselwors.sh` in order to make the scripts
+You may have to type in `chmod +x weaselwords.sh` in order to make the scripts
 executable. 
 
 
@@ -42,7 +42,7 @@ of my thesis I run:
      ../03.Channel-coding-Thm.tex:223:       %        and techniques many of  
      ../03.Example.tex:244:  and see various coding strategies, measurement constructions and
       
-     Checking for for duplicate words in ../03.Channel-coding-Thm.tex ../03.Example.tex ../03.HSW-Thm-proof.tex ../03.HSW-Thm.tex ../03.Point-to-point-channels.tex
+     Checking for duplicate words in ../03.Channel-coding-Thm.tex ../03.Example.tex ../03.HSW-Thm-proof.tex ../03.HSW-Thm.tex ../03.Point-to-point-channels.tex
        
      =============================================================
 
