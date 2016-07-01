@@ -82,5 +82,8 @@ https://www.languagetool.org/
 https://github.com/languagetool-org/languagetool/tree/master/languagetool-core/src/main/java/org/languagetool/rules
 
 
+See also links in [Links](./Links) folder.
+
+
 
 
